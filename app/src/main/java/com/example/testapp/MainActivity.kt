@@ -8,5 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
+    // Testowy komnetarz Brachn2 konflikt
+    val conflict = listOf(1,2,3,4)
     // Testowy komnetarz na masterze
 }
