@@ -11,4 +11,5 @@ class MainActivity : AppCompatActivity() {
     // Testowy komnetarz Brachn2 konflikt
     val conflict = listOf(1,2,3,4)
     // Testowy komnetarz na masterze
+    //test ssh
 }
